@@ -28,18 +28,18 @@ Please ensure that all the libraries below are successfully installed:
 
 
 
-## Run ConGI the example data.
+## Run ConGI on the example data.
 
 ```
 
-python main.py --dataset her2+  --name E1
+python train.py --dataset SpatialLIBD  --name 151509 
 
 ```
 
 
 ## output
 
-The clustering cell labels will be stored in the dir [output](https://github.com/biomed-AI/ConGI) /dataname_pred.csv. 
+The clustering labels will be stored in the dir `output` /dataname_pred.csv. 
 
 
 
