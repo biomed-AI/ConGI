@@ -42,6 +42,11 @@ python train.py --dataset SpatialLIBD  --name 151509
 The clustering labels will be stored in the dir `output` /dataname_pred.csv. 
 
 
+## Tutorial
+
+We also provide a [Tutorial](https://github.com/biomed-AI/ConGI/blob/main/tutorial.ipynb) script for users. 
+
+
 
 ## Datasets
 
