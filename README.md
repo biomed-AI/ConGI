@@ -2,7 +2,7 @@
 
 
 
-# Deciphering Spatial Domains by Integrating Histopathological Image and Transcriptomics via Contrastive Learning 
+# Identifying Spatial Domain by Adapting Transcriptomics with Histology through Contrastive Learning
 
 
 
